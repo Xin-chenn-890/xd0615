@@ -29,3 +29,4 @@ Content:
           git commit -m"注释"
           git push
 3.了解ARDUINO
+建议：希望老师在给我们演示指令的时候速度慢一点。谢谢老师！
